@@ -1,0 +1,16 @@
+
+post-to-pdf-converter/
+├── post-to-pdf-converter.php  # The main plugin file with the plugin header and hooks.
+├── includes/
+│   ├── class-dompdf-loader.php # Handles loading and initializing Dompdf.
+│   ├── class-pdf-generator.php # Handles the generation of the PDF.
+│   └── helper-functions.php    # Utility functions that might be used across the plugin.
+├── templates/
+│   └── pdf-template.php        # The HTML template for the PDF.
+├── assets/
+│   ├── css/
+│   │   └── pdf-styles.css      # CSS styles for the PDF content.
+│   └── fonts/
+│       └── custom-fonts/       # Custom fonts for the PDF, if necessary.
+└── vendor/
+    └── dompdf/                 # The Dompdf library, if you're including it with your plugin.
