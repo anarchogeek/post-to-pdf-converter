@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Post to PDF Converter
-Description: Convert posts to PDF.
-Version: 1.01
-Author: Your Name
+Description: Open-source, self-hosted PDF generator for WordPress with customizable options.
+Version: 0.01
+Author: Sid
 */
 
 define('P2P_PLUGIN_DIR', plugin_dir_path(__FILE__));
