@@ -6,7 +6,6 @@
  * Author: Your Name
  */
 
-// Define plugin paths and URLs for easy reference.
 define('P2P_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('P2P_PLUGIN_URL', plugin_dir_url(__FILE__));
 
