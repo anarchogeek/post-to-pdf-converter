@@ -2,7 +2,7 @@
 /*
 Plugin Name: Post to PDF Converter
 Description: Convert posts to PDF.
-Version: 1.0
+Version: 1.01
 Author: Your Name
 */
 
